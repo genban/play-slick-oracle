@@ -1,4 +1,2 @@
-This is your new Play application
-=================================
+This is an example of using Slick to connect oracle DB
 
-This file will be packaged with your application, when using `activator dist`.
